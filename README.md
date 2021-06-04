@@ -26,6 +26,10 @@
 
 
 
+### PPT File
+
+-  [Focus on Me 포트폴리오.pptx](README.assets/Focus on Me 포트폴리오.pptx) 
+
 ![image-20210602155556065](README.assets/image-20210602155556065.png)
 
 

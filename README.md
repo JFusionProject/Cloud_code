@@ -26,9 +26,14 @@
 
 
 
-### PPT File
+### File
 
--  [Focus on Me 포트폴리오.pptx](README.assets/Focus on Me 포트폴리오.pptx) 
+두개의 파일 모두 git에 올려져 있습니다.
+
+-  PPT file : Focus on Me 포트폴리오.pptx
+- 시연 영상 : Focus on Me 시연 영상.mp4
+
+
 
 ![image-20210602155556065](README.assets/image-20210602155556065.png)
 
